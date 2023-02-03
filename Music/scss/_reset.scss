@@ -1,0 +1,35 @@
+
+* {
+	padding: 0;
+	margin: 0;
+	border: 0;
+ }
+ 
+ nav, footer, header, aside {
+	display: block;
+ }
+
+ a{
+	text-decoration: none;
+	color: inherit;
+ }
+
+ img{
+	vertical-align: top;
+ }
+ 
+ h1, h2, h3, h4, h5, h6 {
+	font-weight: inherit;
+	flex: inherit;
+ }
+
+html, body {
+	box-sizing: border-box;
+	height: 100%;
+	width: 100%;
+	font-size: 100%;
+	-ms-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+ }
+
